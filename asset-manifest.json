@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Analog-watch/static/css/main.621b219e.chunk.css",
-    "main.js": "/Analog-watch/static/js/main.2ceace16.chunk.js",
-    "main.js.map": "/Analog-watch/static/js/main.2ceace16.chunk.js.map",
+    "main.js": "/Analog-watch/static/js/main.a322e05f.chunk.js",
+    "main.js.map": "/Analog-watch/static/js/main.a322e05f.chunk.js.map",
     "runtime-main.js": "/Analog-watch/static/js/runtime-main.00a7f4ce.js",
     "runtime-main.js.map": "/Analog-watch/static/js/runtime-main.00a7f4ce.js.map",
     "static/js/2.5418a4dd.chunk.js": "/Analog-watch/static/js/2.5418a4dd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.00a7f4ce.js",
     "static/js/2.5418a4dd.chunk.js",
     "static/css/main.621b219e.chunk.css",
-    "static/js/main.2ceace16.chunk.js"
+    "static/js/main.a322e05f.chunk.js"
   ]
 }
