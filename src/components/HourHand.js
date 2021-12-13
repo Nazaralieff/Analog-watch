@@ -2,7 +2,8 @@ import React from "react";
 
 function HourHand({ watch }) {
     let minuteDegre = watch.Minute/12;
-    let hour = watch.HourHand;
+    let hour = watch.Hour;
+    console.log(hour);
     if(watch.Hour >= 12){
         hour = watch.Hour - 12;
     }
